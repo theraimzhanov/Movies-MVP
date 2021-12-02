@@ -1,4 +1,4 @@
-package com.example.mymovie.ui;
+package com.example.mymovie.ui.main;
 
 import com.example.mymovie.data.remove.RetrofitBuilder;
 import com.example.mymovie.pojo.MyMovie;

@@ -9,7 +9,6 @@ import android.widget.Toast;
 import com.example.mymovie.R;
 import com.example.mymovie.adapter.MovieAdapter;
 import com.example.mymovie.pojo.MyMovie;
-import com.example.mymovie.ui.MainPresenter;
 
 import java.util.ArrayList;
 import java.util.List;
